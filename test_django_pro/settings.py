@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS - ['15.252.140.179', 'localhost', '127.0.0.1']
 
 # or for quick testing inside container environment
-ALLOWED_HOSTS - ['*']
+# ALLOWED_HOSTS - ['*']
 
 
 # Application definition
